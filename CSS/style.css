@@ -73,12 +73,14 @@ img.logo {
     cursor: default;
 }
 
+/* h1 dan teks p */
+
 .container {
      text-align: left;
      margin: 0;
      padding-left: 50px;
 }
-
+/* perubahan font untuk h1 */
 .italic {
     font-style: italic;
 }
